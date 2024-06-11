@@ -59,12 +59,13 @@ img {
      margin-left: auto;
      margin-right: auto;	
 }
-video {
-	padding:50px;
-     display: block;
-     margin-left: auto;
-     margin-right: auto;
-	 }
+.video-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
 ul.nav	{	
 		padding:20px; 
 		margin-left: auto; 
