@@ -25,7 +25,7 @@ h1 {
 h2 {
 	font-size: 27px;
 	text-align: center;
-	font-family:"Brush Script MT", Cursive; 
+	font-family:"Fira Sans", serif;
 	padding:10px; 
     margin-left: auto; 
 	margin-right:auto; 
@@ -35,7 +35,7 @@ h2 {
 h3 {
 	font-size: 23px;
 	text-align: center;
-	font-family:"Brush Script MT", Cursive;
+	font-family:"Fira Sans", serif;
 	padding:10px; 
     margin-left: auto; 
 	margin-right:auto; 
@@ -45,7 +45,7 @@ h3 {
 p {
 	font-size: 20px;
 	text-align: center;
-	font-family:"Brush Script MT", Cursive;
+	font-family:"Fira Sans", serif;
 	padding:10px; 
     margin-left: auto; 
 	margin-right:auto; 
@@ -88,7 +88,7 @@ ul.nav li a:hover {	text-decoration:underline;}
 
 ul.youtube-links {
 	font-size: 20px;
-	font-family:"Brush Script MT", Cursive;
+	font-family:"Fira Sans", serif;
 	padding:10px; 
     margin-left: auto; 
 	margin-right:auto; 
@@ -101,7 +101,7 @@ ul.youtube-links li a {
 ul.youtube-links li a:hover {text-decoration:underline;}
 ul {
 	font-size: 20px;
-    font-family:"Brush Script MT", Cursive;
+    font-family:"Fira Sans", serif;
 	padding:20px; 
 	margin-left: auto; 
 	margin-right:auto; 
