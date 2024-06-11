@@ -1,0 +1,110 @@
+@font-face {
+    font-family: "IvonaSibenik";
+    src:url("IvonaSibenik.ttf");
+}
+body{
+    background-image:url("Pozadina/pozadina.jpg");
+    background-size: cover; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0; 
+}
+h1 {
+    font-size: 65px; 
+	text-align: center;
+    padding:80px; 
+    margin-left: auto; 
+	margin-right:auto; 
+	width: 310px;
+    font-family:"IvonaSibenik";
+	color:white;
+    background-color:rgba(128,128,0,0.5);
+    padding:20px;	
+}
+h2 {
+	font-size: 27px;
+	text-align: center;
+	font-family:"Fira Sans", serif; 
+	padding:10px; 
+    margin-left: auto; 
+	margin-right:auto; 
+	width: 300px;
+	color:white; 
+}
+h3 {
+	font-size: 23px;
+	text-align: center;
+	font-family:"Fira Sans", serif;
+	padding:10px; 
+    margin-left: auto; 
+	margin-right:auto; 
+	width: 300px;
+	color:white; 
+}
+p {
+	font-size: 20px;
+	text-align: center;
+	font-family:"Fira Sans", serif;
+	padding:10px; 
+    margin-left: auto; 
+	margin-right:auto; 
+	width: 900px;
+	color:white; 
+}
+img {
+	 padding:50px;
+     height: 400px;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;	
+}
+.video-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+ul.nav	{	
+		padding:20px; 
+		margin-left: auto; 
+		margin-right:auto; 
+		width:390px;
+			} 
+ul.nav li {	
+		display:inline; 
+		background-color:#28B463 ;
+		padding:20px;
+		border: 2px solid #145A32;
+		}
+ul.nav li:active {background-color:#145A32;}
+ul.nav li a {color:white;  
+			font-family: "CabinSketch", sans-serif; 
+			text-transform: uppercase;
+			}	
+ul.nav li a:link {text-decoration:none;}
+ul.nav li a:hover {	text-decoration:underline;}	
+
+ul.youtube-links {
+	font-size: 20px;
+	font-family:"Fira Sans", serif;
+	padding:10px; 
+    margin-left: auto; 
+	margin-right:auto; 
+	width: 300px;
+	color:white; 
+}
+ul.youtube-links li a {
+	color:white;
+}
+ul.youtube-links li a:hover {text-decoration:underline;}
+ul {
+	font-size: 20px;
+    font-family:"Fira Sans", serif;
+	padding:20px; 
+	margin-left: auto; 
+	margin-right:auto; 
+	width: 320px;
+	color:white; 
+}
